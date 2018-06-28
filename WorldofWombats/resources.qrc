@@ -1,0 +1,137 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/main menu.jpg</file>
+        <file>Images/mainbackground.jpg</file>
+    </qresource>
+    <qresource prefix="/Sounds/Music">
+        <file>Sounds/Music/05 Antibalas - War Hero.mp3</file>
+    </qresource>
+    <qresource prefix="/Images/Mainmenuitems">
+        <file>Images/Mainmenuitems/mainmenu_CW.png</file>
+        <file>Images/Mainmenuitems/mainmenu_CWsel.png</file>
+        <file>Images/Mainmenuitems/mainmenu_HW.png</file>
+        <file>Images/Mainmenuitems/mainmenu_HWsel.png</file>
+        <file>Images/Mainmenuitems/mainmenu_IAW.png</file>
+        <file>Images/Mainmenuitems/mainmenu_IAWsel.png</file>
+        <file>Images/Mainmenuitems/mainmenu_WR.png</file>
+        <file>Images/Mainmenuitems/mainmenu_WRsel.png</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>Sounds/ui_maprollover_flyout_01mod.wav</file>
+        <file>Sounds/itm_gold_up_01.wav</file>
+        <file>Sounds/mag_vampire_sunlight_02.wav</file>
+        <file>Sounds/npc_werewolf_growl_01.wav</file>
+        <file>Sounds/npc_werewolf_growl_02.wav</file>
+        <file>Sounds/npc_werewolf_growl_03.wav</file>
+        <file>Sounds/ui_skill_increase.wav</file>
+    </qresource>
+    <qresource prefix="/Images/wr">
+        <file>Images/wr/wr_highscore.png</file>
+        <file>Images/wr/wr_menu_background.jpg</file>
+        <file>Images/wr/wr_menu_highscore.png</file>
+        <file>Images/wr/wr_menu_highscoresel.png</file>
+        <file>Images/wr/wr_menu_quit.png</file>
+        <file>Images/wr/wr_menu_quitsel.png</file>
+        <file>Images/wr/wr_menu_start.png</file>
+        <file>Images/wr/wr_menu_startsel.png</file>
+        <file>Images/wr/x.png</file>
+        <file>Images/wr/xsel.png</file>
+        <file>Images/wr/wombat_run_wombat.png</file>
+        <file>Images/wr/wr_game_background.jpg</file>
+        <file>Images/wr/wr_start_run.png</file>
+        <file>Images/wr/wr_start_runsel.png</file>
+        <file>Images/wr/wombatrunning.gif</file>
+        <file>Images/wr/wombatwaiting.gif</file>
+        <file>Images/wr/flags_uk.png</file>
+        <file>Images/wr/flags_sweden.png</file>
+        <file>Images/wr/flags_china.png</file>
+        <file>Images/wr/wr_exit.png</file>
+        <file>Images/wr/wr_exitsel.png</file>
+        <file>Images/wr/wr_addplayer.png</file>
+        <file>Images/wr/wr_addplayersel.png</file>
+        <file>Images/wr/runwombatrun.gif</file>
+        <file>Images/wr/runwombatrun_static.png</file>
+    </qresource>
+    <qresource prefix="/Fonts">
+        <file>Fonts/LifeCraft_Font.ttf</file>
+    </qresource>
+    <qresource prefix="/HabitatWombat/Images/Tiles">
+        <file>HabitatWombat/Images/Tiles/1_1 grid.png</file>
+        <file>HabitatWombat/Images/Tiles/1_1.png</file>
+        <file>HabitatWombat/Images/Tiles/3_1.png</file>
+        <file>HabitatWombat/Images/Tiles/4_1.png</file>
+        <file>HabitatWombat/Images/Tiles/7_1.png</file>
+        <file>HabitatWombat/Images/Tiles/99_1.png</file>
+        <file>HabitatWombat/Images/Tiles/99_2.png</file>
+        <file>HabitatWombat/Images/Tiles/8.png</file>
+        <file>HabitatWombat/Images/Tiles/8_1.png</file>
+        <file>HabitatWombat/Images/Tiles/2_1.png</file>
+        <file>HabitatWombat/Images/Tiles/2_2.png</file>
+        <file>HabitatWombat/Images/Tiles/5_1.png</file>
+        <file>HabitatWombat/Images/Tiles/6_1.png</file>
+        <file>HabitatWombat/Images/Tiles/9_1.png</file>
+        <file>HabitatWombat/Images/Tiles/11_1.png</file>
+        <file>HabitatWombat/Images/Tiles/11_2.png</file>
+        <file>HabitatWombat/Images/Tiles/50_1.png</file>
+        <file>HabitatWombat/Images/Tiles/51_1.png</file>
+        <file>HabitatWombat/Images/Tiles/52_1.png</file>
+        <file>HabitatWombat/Images/Tiles/100_1.png</file>
+        <file>HabitatWombat/Images/Tiles/7.png</file>
+        <file>HabitatWombat/Images/Tiles/12_1.png</file>
+        <file>HabitatWombat/Images/Tiles/paths_1.png</file>
+    </qresource>
+    <qresource prefix="/HabitatWombat/Images">
+        <file>HabitatWombat/Images/wombat.png</file>
+        <file>HabitatWombat/Images/wombat_sleeping.png</file>
+    </qresource>
+    <qresource prefix="/HabitatWombat/Sound">
+        <file>HabitatWombat/Sounds/fst_grass_sneak_01.wav</file>
+        <file>HabitatWombat/Sounds/fst_grass_sneak_02.wav</file>
+        <file>HabitatWombat/Sounds/fst_grass_sneak_03.wav</file>
+        <file>HabitatWombat/Sounds/fst_grass_sneak_04.wav</file>
+        <file>HabitatWombat/Sounds/fst_grass_sneak_05.wav</file>
+        <file>HabitatWombat/Sounds/fst_grass_sneak_06.wav</file>
+        <file>HabitatWombat/Sounds/fst_npc_dirt_walk_03.wav</file>
+        <file>HabitatWombat/Sounds/fst_npc_dirt_walk_04.wav</file>
+        <file>HabitatWombat/Sounds/wpn_impact_crgiantclub_dirt_01.wav</file>
+        <file>HabitatWombat/Sounds/wpn_impact_crgiantclub_dirt_02.wav</file>
+        <file>HabitatWombat/Sounds/wpn_impact_crgiantclub_dirt_03.wav</file>
+        <file>HabitatWombat/Sounds/ui_levelup.wav</file>
+        <file>HabitatWombat/Sounds/ui_quest_update.wav</file>
+        <file>HabitatWombat/Sounds/ui_skills_stop_01.wav</file>
+        <file>HabitatWombat/Sounds/ui_skills_stop_02.wav</file>
+        <file>HabitatWombat/Sounds/ui_skills_stop_03.wav</file>
+        <file>HabitatWombat/Sounds/npc_human_eat_01.wav</file>
+        <file>HabitatWombat/Sounds/npc_human_eat_02.wav</file>
+        <file>HabitatWombat/Sounds/npc_human_eat_03.wav</file>
+        <file>HabitatWombat/Sounds/npc_goat_death_02vollowered.wav</file>
+        <file>HabitatWombat/Sounds/ns2_gorge_taunt.mp3</file>
+        <file>HabitatWombat/Sounds/phy_generic_dirt_medium_h_01.wav</file>
+        <file>HabitatWombat/Sounds/phy_generic_dirt_medium_h_03.wav</file>
+        <file>HabitatWombat/Sounds/phy_generic_dirt_medium_l_01.wav</file>
+        <file>HabitatWombat/Sounds/phy_generic_dirt_medium_l_02.wav</file>
+    </qresource>
+    <qresource prefix="/HabitatWombat/Images/Menu">
+        <file>HabitatWombat/Images/Menu/hw_menu_background.jpg</file>
+        <file>HabitatWombat/Images/Menu/hw_menu_loadworld.png</file>
+        <file>HabitatWombat/Images/Menu/hw_menu_loadworldsel.png</file>
+        <file>HabitatWombat/Images/Menu/hw_menu_newworld.png</file>
+        <file>HabitatWombat/Images/Menu/hw_menu_newworldsel.png</file>
+        <file>HabitatWombat/Images/Menu/hw_menu_options.png</file>
+        <file>HabitatWombat/Images/Menu/hw_menu_optionsel.png</file>
+        <file>HabitatWombat/Images/Menu/hw_menu_quit.png</file>
+        <file>HabitatWombat/Images/Menu/hw_menu_quitsel.png</file>
+    </qresource>
+    <qresource prefix="/HabitatWombat/Images/Emoticons">
+        <file>HabitatWombat/Images/Emoticons/exclamation.png</file>
+        <file>HabitatWombat/Images/Emoticons/sleeping.png</file>
+    </qresource>
+    <qresource prefix="/HabitatWombat/Images/Icons">
+        <file>HabitatWombat/Images/Icons/checked.png</file>
+        <file>HabitatWombat/Images/Icons/unchecked.png</file>
+        <file>HabitatWombat/Images/Icons/basket.png</file>
+        <file>HabitatWombat/Images/Icons/resource_ricegrass.png</file>
+        <file>HabitatWombat/Images/Icons/resource_grass.png</file>
+        <file>HabitatWombat/Images/Icons/resource_sticks.png</file>
+    </qresource>
+</RCC>
